@@ -6,7 +6,7 @@ using namespace std;
 
 // principal function
 int main(){
-	// fuction output  Message  end line
+	// function output  Message  end line
 	cout << "Hola Mundo" << endl;
 	//the return of the principal function 
 	return 0;
