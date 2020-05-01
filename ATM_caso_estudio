@@ -1,0 +1,13 @@
+ATM - C++ como programar
+
+Especificaciones:
+	* El banco tiene sus usuarios con una cuenta
+		+ pueden ver su estado actual
+		+ retirar dinero
+		+ depositar dinero
+	* En la interfaz se tiene
+		+ pantalla que muestra los mensajes al usuario
+		+ teclado númerico
+		+ dispensador de dinero
+		+ alimentador de dinero
+	* cada día tiene 500 billetes de $20 
