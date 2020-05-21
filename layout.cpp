@@ -9,9 +9,9 @@ using namespace std;
 
 // GLOBAL VARIABLES
 
-// CLASSES
-
 // EXTRA FUNCTION NAME
+
+// CLASSES
 
 int main(){
 	
